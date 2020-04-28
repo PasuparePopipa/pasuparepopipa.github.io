@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# Welcome!
+Hello! I am Jerry Yang, currently majoring in Computer Science and Finance!
+See more information below!
+## Resume
+Click [here](resume.pdf) for my resume!
+## Project Demos
+# Software
 
-You can use the [editor on GitHub](https://github.com/PasuparePopipa/pasuparepopipa.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Pizza Ordering System:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![](pizza.mp4)
 
-### Markdown
+[![Watch](pizza.png)](pizza.mp4)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Using Java's abstract classes as well as Polymorphism, I developed a GUI using JavaFX which enabled the
+users to order Pizza from a Pizza Store. The user is able to choose from the menu as well as build their own
+from the various topping choices given to the user. When nished, the user is able to open their order on a
+separate window and proceed to conrm their order, go back to the menu, or clear the order entirely.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+# Simulation
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Cache Simulator
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PasuparePopipa/pasuparepopipa.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Programming Projects
 
-### Support or Contact
+Haskell Project
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+Prolog Project
+
+
