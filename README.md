@@ -62,6 +62,7 @@ BSTs and Lists:
 Using Prolog to work with logical programing, I worked with BSTs and lists. "bst" checks whether or not the input binary search tree is semi-deterministic. "zip" zips the elements of the first input with the second input and places it in the third as a list. The third list is always shorter or as long as the first two lists as extra elements are discarded. "insert" inserts an element into a list and stores it in the third list. 
 
 Bit Manipulation:
+
 Click to watch!
 [![](bit.png)](bit.mp4)
 Using C and restricted to using only the 6 Bit Operators included with C, I created a series of Bit
