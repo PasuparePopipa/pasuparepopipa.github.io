@@ -8,7 +8,7 @@ Click [here!](resume.pdf) for my resume!
 
 **Pizza Ordering System:**
 
-Click to watch!
+Click below to watch!
 
 [![](pizza.png)](pizza.mp4)
 
@@ -25,7 +25,7 @@ separate window and proceed to conrm their order, go back to the menu, or clear 
 **BMI Calculator:**
 
 
-Click to watch!
+Click below to watch!
 
 [![](bmi.png)](bmi.mp4)
 
@@ -40,7 +40,7 @@ wants advice from the app.
 
 **Cache Simulator:**
 
-Click to watch!
+Click below to watch!
 
 [![](cache.png)](cache.mp4)
 
@@ -74,7 +74,7 @@ Using Prolog to work with logical programing, I worked with BSTs and lists. "bst
 
 **Bit Manipulation:**
 
-Click to watch!
+Click below to watch!
 
 [![](bit.png)](bit.mp4)
 
