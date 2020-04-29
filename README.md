@@ -9,7 +9,9 @@ Click [here!](resume.pdf) for my resume!
 Pizza Ordering System:
 
 Click to watch!
+
 [![](pizza.png)](pizza.mp4)
+
 
 Using Java's abstract classes as well as Polymorphism, I developed a GUI using JavaFX which enabled the
 users to order Pizza from a Pizza Store. The user is able to choose from the menu as well as build their own
@@ -22,8 +24,11 @@ separate window and proceed to conrm their order, go back to the menu, or clear 
 
 BMI Calculator:
 
+
 Click to watch!
+
 [![](bmi.png)](bmi.mp4)
+
 
 I Developed an Android App through the use of Android Studio. It calculates the BMI and gives proper advice
 based on on the Department of Health and Human Services. The app allows users to enter their weight and
@@ -36,7 +41,9 @@ wants advice from the app.
 Cache Simulator:
 
 Click to watch!
+
 [![](cache.png)](cache.mp4)
+
 
 I created a Cache simulator using C, simulated an L1 cache using the Least Recently Used(LRU) replacement
 algorithm, and included an option to incorporate prefetching
@@ -51,20 +58,26 @@ Here are just some of the samples!
 Huffmantrees and DFAs:
 
 ![](haskell1.png)
+
 Using Haskell to work with functional programing, I worked with huffman trees. "codes" returns a list of every element in the tree along with its encoding as a sequence of bits, while decode takes in a huffman tree and a stream of bits and "decodes" it, giving the string of symbols encoded, as well as a boolean indicating whether or not any bits were left over.
 
 ![](haskell2.png)
+
 Utilizing Haskell, I built a series of Deterministic finite automatons. As shown in the sample, the first DFA accepts any language over {A,B,C} where every non-final A is followed by a B, every non-final B is followed by a C, and so forth. The second accepts the string as long as it contains the sequence "AB" or "BA" somewhere in the string.
 
 
 BSTs and Lists:
+
 ![](prolog.png)
+
 Using Prolog to work with logical programing, I worked with BSTs and lists. "bst" checks whether or not the input binary search tree is semi-deterministic. "zip" zips the elements of the first input with the second input and places it in the third as a list. The third list is always shorter or as long as the first two lists as extra elements are discarded. "insert" inserts an element into a list and stores it in the third list. 
 
 Bit Manipulation:
 
 Click to watch!
+
 [![](bit.png)](bit.mp4)
+
 Using C and restricted to using only the 6 Bit Operators included with C, I created a series of Bit
 functions from guring out a bit's parity to palindrome checking.
 
