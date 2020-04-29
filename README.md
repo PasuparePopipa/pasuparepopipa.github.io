@@ -7,7 +7,7 @@ Click [here!](resume.pdf) for my resume!
 ### Software
 
 Pizza Ordering System:
-!(pizza.mp4)
+![](pizza.mp4)
 
 Using Java's abstract classes as well as Polymorphism, I developed a GUI using JavaFX which enabled the
 users to order Pizza from a Pizza Store. The user is able to choose from the menu as well as build their own
@@ -20,7 +20,7 @@ separate window and proceed to conrm their order, go back to the menu, or clear 
 
 BMI Calculator:
 
-!(bmi.mp4)
+![](bmi.mp4)
 
 I Developed an Android App through the use of Android Studio. It calculates the BMI and gives proper advice
 based on on the Department of Health and Human Services. The app allows users to enter their weight and
