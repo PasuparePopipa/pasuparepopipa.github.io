@@ -6,7 +6,7 @@ Click [here!](resume.pdf) for my resume!
 ## Project Demos
 ### Software
 
-**Pizza Ordering System:
+**Pizza Ordering System:**
 
 Click to watch!
 
@@ -22,7 +22,7 @@ separate window and proceed to conrm their order, go back to the menu, or clear 
 
 
 
-**BMI Calculator:
+**BMI Calculator:**
 
 
 Click to watch!
@@ -38,7 +38,7 @@ wants advice from the app.
 
 ### Simulation
 
-**Cache Simulator:
+**Cache Simulator:**
 
 Click to watch!
 
@@ -55,7 +55,7 @@ I toyed around with various different programming languages in a series of progr
 
 Here are just some of the samples!
 
-**Huffmantrees and DFAs:
+**Huffmantrees and DFAs:**
 
 ![](haskell1.png)
 
@@ -66,13 +66,13 @@ Using Haskell to work with functional programing, I worked with huffman trees. "
 Utilizing Haskell, I built a series of Deterministic finite automatons. As shown in the sample, the first DFA accepts any language over {A,B,C} where every non-final A is followed by a B, every non-final B is followed by a C, and so forth. The second accepts the string as long as it contains the sequence "AB" or "BA" somewhere in the string.
 
 
-**BSTs and Lists:
+**BSTs and Lists:**
 
 ![](prolog.png)
 
 Using Prolog to work with logical programing, I worked with BSTs and lists. "bst" checks whether or not the input binary search tree is semi-deterministic. "zip" zips the elements of the first input with the second input and places it in the third as a list. The third list is always shorter or as long as the first two lists as extra elements are discarded. "insert" inserts an element into a list and stores it in the third list. 
 
-**Bit Manipulation:
+**Bit Manipulation:**
 
 Click to watch!
 
