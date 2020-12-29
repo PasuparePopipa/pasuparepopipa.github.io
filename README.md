@@ -36,6 +36,8 @@ This is a group project where we made a relational database system designed to s
 
 **Power Level to Joules Calculator
 
+Click below to watch!
+
 [![](powerLevelCalc.png)](PowerLevelCalc.mp4)
 
 A quick and simple app developed using Dart and Flutter. Calculation credits to SeththeProgrammer. The App takes an input of a powerlevel, and then converts it into the amount of joules of force one is able to output using the Dragon Ball Anime feats as guidelines. When no feats are present, the joules output takes on a linear scale as that's how techniques like the kaioken work. Some quick feats it follows:
