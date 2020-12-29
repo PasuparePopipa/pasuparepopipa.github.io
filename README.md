@@ -2,7 +2,7 @@
 Hello! I am Jerry Yang, currently majoring in Computer Science and Finance!
 See more information below!
 ## Resume
-Click [here!](Resume.pdf) for my resume!
+Click [here!](resume.pdf) for my resume!
 ## Project Demos
 ### Software
 
