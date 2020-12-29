@@ -41,8 +41,11 @@ Click below to watch!
 [![](powerLevelCalc.png)](PowerLevelCalc.mp4)
 
 A quick and simple app developed using Dart and Flutter. Calculation credits to SeththeProgrammer. The App takes an input of a powerlevel, and then converts it into the amount of joules of force one is able to output using the Dragon Ball Anime feats as guidelines. When no feats are present, the joules output takes on a linear scale as that's how techniques like the kaioken work. Some quick feats it follows:
+
 Master Roshi with a power level of 180 could blow up the moon, so the joules output would be greater or equal to the force needed to do that.
+
 King Vegeta with a power level of 10000 could destroy 3 small planets with ease, so the joules output would be greater or equal to the force needed for that.
+
 Cell is stated to be a solar system buster, so his power level, while not stated in the series, would be where the joules output would be big enough to wipe one out.
 
 
