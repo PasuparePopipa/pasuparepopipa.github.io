@@ -23,7 +23,7 @@ from the various topping choices given to the user. When finished, the user is a
 separate window and proceed to conrm their order, go back to the menu, or clear the order entirely.
 
 
-**Online Railway Booking System**
+**Online Railway Booking System:**
 
 Click below to watch!
 
@@ -34,7 +34,7 @@ This is a group project where we made a relational database system designed to s
 
 ### Mobile Development
 
-**Power Level to Joules Calculator**
+**Power Level to Joules Calculator:**
 
 Click below to watch!
 
