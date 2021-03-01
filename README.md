@@ -14,12 +14,14 @@ In this project, I worked with a partner and created an AI that attempts to reac
 <p align="center">
   <img src="200.PNG">
 </p>
-![](200.PNG)
-![](strat3.PNG)
+<p align="center">
+  <img src="strat3.PNG">
+</p>
+
 
 
 Below is a more detailed report on the project.
-![FireMaze Report](fmazereport.pdf)
+[FireMaze Report](fmazereport.pdf)
 
 ### Software
 
