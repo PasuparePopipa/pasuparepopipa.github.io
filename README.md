@@ -5,7 +5,7 @@ See more information below!
 Click [here!](resume.pdf) for my resume!
 ## Project Demos
 
-###Artificial Intelligence
+### Artificial Intelligence
 
 **The Maze is On Fire!**
 
