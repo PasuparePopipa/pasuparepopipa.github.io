@@ -8,11 +8,17 @@ Click [here!](resume.pdf) for my resume!
 ###Artificial Intelligence
 
 **The Maze is On Fire!**
+
 In this project, I worked with a partner and created an AI that attempts to reach the goal in a maze. The maze is a square and the AI will be unable to travel through walls or ”occupied cells”. In addition, the maze may be set on fire. In this case, the fire will spread with each move of the AI.This project is done in Python and Pygames is used for the GUI. Numpy and matplotlib were used for the graphs in the report. In the report below. Below are some sample images. In the first is an Agent performing DFS search in a 200x200 maze without any fire in it's way. The latter recomputes the shortest path using the A* algorithm, while exercising "caution" to account for future states.
-![](https://drive.google.com/file/d/17RefRUn6dox-fcnZuQM7vGoOAb2bTHWH/view?usp=sharing)
-![](https://drive.google.com/file/d/1dZUCJSVpnr20UIf6PWBNmPL50MrVx2NI/view?usp=sharing)
+
+
+![](200.PNG)
+![](strat3.PNG)
+
+
 Below is a more detailed report on the project.
-![](https://drive.google.com/file/d/1MJ1EiRqOs87IyWlkQPU0iNEb-hJ-eCqL/view?usp=sharing)
+![](fmazereport.pdf)
+
 ### Software
 
 
