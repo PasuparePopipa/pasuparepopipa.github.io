@@ -17,7 +17,7 @@ In this project, I worked with a partner and created an AI that attempts to reac
 
 
 Below is a more detailed report on the project.
-![](fmazereport.pdf)
+![FireMaze Report](fmazereport.pdf)
 
 ### Software
 
