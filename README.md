@@ -9,7 +9,7 @@ Click [here!](resume.pdf) for my resume!
 
 **MineSweeper!**
 In this project, I first created a game of Minesweeper in pygames. The game assets are thanks to GooseNinja from itch.io. Then I made a basic agent that plays the game of Minesweeper. Below is a video of it beating the game. The Improved agent is still under works and will take more advantage of it's knowledge base through different local algorithms.
-
+test
 
 <video width="400" height="200" controls>
       <source src="msbasic.mp4" type=video/mp4>
