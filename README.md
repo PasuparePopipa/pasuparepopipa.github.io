@@ -60,9 +60,7 @@ Click below to watch!
 
 
 [![](trainRes.PNG)](https://drive.google.com/file/d/1SY3i_AaE3vtkf3Sdvkz9j_A1vZGBTLGQ/view?usp=sharing)
-<video controls="controls" src="https://drive.google.com/file/d/1SY3i_AaE3vtkf3Sdvkz9j_A1vZGBTLGQ/view?usp=sharing">
-    Your browser does not support the HTML5 Video element.
-</video>
+
 
 This is a group project where we made a relational database system designed to support the operations of an online railway booking system. HTML was used for the user interface, MYSQL for the database server, and Java, Javascript, and JDBC was used for the connectivity between the user interface and database server. It was hosted under AWS for a period of time but the instance has been taken down as the free tier is no longer available. The video is a demo of the functions including reservations, questions and answers between customer reps and customers, and other admin functions.
 
