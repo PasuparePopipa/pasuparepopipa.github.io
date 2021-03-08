@@ -7,6 +7,15 @@ Click [here!](resume.pdf) for my resume!
 
 ### Artificial Intelligence
 
+**MineSweeper!**
+In this project, I first created a game of Minesweeper in pygames. The game assets are thanks to GooseNinja from itch.io. Then I made a basic agent that plays the game of Minesweeper. Below is a video of it beating the game. The Improved agent is still under works and will take more advantage of it's knowledge base through different local algorithms.
+
+<iframe width="560" height="315" src="msbasic.mp4" frameborder="0" allowfullscreen></iframe>
+      </iframe>
+
+
+
+
 **The Maze is On Fire!**
 
 In this project, I worked with a partner and created an AI that attempts to reach the goal in a maze. The maze is a square and the AI will be unable to travel through walls or ”occupied cells”. In addition, the maze may be set on fire. In this case, the fire will spread with each move of the AI.This project is done in Python and Pygames is used for the GUI. Numpy and matplotlib were used for the graphs in the report. In the report below. Below are some sample images. In the first is an Agent performing DFS search in a 200x200 maze without any fire in it's way. The latter recomputes the shortest path using the A* algorithm, while exercising "caution" to account for future states.
