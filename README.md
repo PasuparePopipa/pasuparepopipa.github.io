@@ -1,6 +1,7 @@
 # Welcome!
 Hello! I am Jerry Yang, currently majoring in Computer Science and Finance, graduating May 2021!
 See more information below!
+
 ## Resume
 Click [here!](resume.pdf) for my resume!
 ## Project Demos
@@ -14,7 +15,7 @@ In this project, I first created a game of Minesweeper in pygames. The game asse
 
 
 <video controls="controls" src="msbasic.mp4">
-    Your browser does not support the HTML5 Video element.
+    Your browser does not support the HTML5 Video element
 </video>
 
 
