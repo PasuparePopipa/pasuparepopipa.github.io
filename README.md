@@ -13,7 +13,7 @@ In this project, I first created a game of Minesweeper in pygames. The game asse
 
 <video width="560" height="315" controls>
       <source src="mbasic.mp4" type=video/mp4>
-    </video>
+ </video>
 
 
 
