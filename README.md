@@ -39,7 +39,10 @@ Below is a more detailed report on the project.
 
 
 **Pizza Ordering System:**
-
+<video width="560" height="315" controls>
+      <source src="pizza.mp4" type=video/mp4>
+ </video>
+ 
 Click below to watch!
 
 [![](pizza.png)](pizza.mp4)
