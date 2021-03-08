@@ -17,12 +17,6 @@ In this project, I first created a game of Minesweeper in pygames. The game asse
     Your browser does not support the HTML5 Video element.
 </video>
 
-test
-
-<video width="400" height="200" controls>
-      <source src="msbasic.mp4" type=video/mp4>
- </video>
-
 
 
 
@@ -48,15 +42,10 @@ Below is a more detailed report on the project.
 
 **Pizza Ordering System:**
 
-
-<video width="560" height="315" controls>
-      <source src="pizza.mp4" type=video/mp4>
- </video>
+<video controls="controls" src="pizza.mp4">
+    Your browser does not support the HTML5 Video element.
+</video>
  
-Click below to watch!
-
-[![](pizza.png)](pizza.mp4)
-
 
 Using Java's abstract classes as well as Polymorphism, I developed a GUI using JavaFX which enabled the
 users to order Pizza from a Pizza Store. The user is able to choose from the menu as well as build their own
@@ -68,8 +57,12 @@ separate window and proceed to conrm their order, go back to the menu, or clear 
 
 Click below to watch!
 
-[![](trainRes.PNG)](https://drive.google.com/file/d/1SY3i_AaE3vtkf3Sdvkz9j_A1vZGBTLGQ/view?usp=sharing)
 
+
+[![](trainRes.PNG)](https://drive.google.com/file/d/1SY3i_AaE3vtkf3Sdvkz9j_A1vZGBTLGQ/view?usp=sharing)
+<video controls="controls" src="https://drive.google.com/file/d/1SY3i_AaE3vtkf3Sdvkz9j_A1vZGBTLGQ/view?usp=sharing">
+    Your browser does not support the HTML5 Video element.
+</video>
 
 This is a group project where we made a relational database system designed to support the operations of an online railway booking system. HTML was used for the user interface, MYSQL for the database server, and Java, Javascript, and JDBC was used for the connectivity between the user interface and database server. It was hosted under AWS for a period of time but the instance has been taken down as the free tier is no longer available. The video is a demo of the functions including reservations, questions and answers between customer reps and customers, and other admin functions.
 
@@ -77,9 +70,11 @@ This is a group project where we made a relational database system designed to s
 
 **Power Level to Joules Calculator:**
 
-Click below to watch!
 
-[![](powerLevelCalc.png)](PowerLevelCalc.mp4)
+<video controls="controls" src="PowerLevelCalc.mp4">
+    Your browser does not support the HTML5 Video element.
+</video>
+
 
 A quick and simple app developed using Dart and Flutter. Calculation credits to SeththeProgrammer. The App takes an input of a powerlevel, and then converts it into the amount of joules of force one is able to output using the Dragon Ball Anime feats as guidelines. When no feats are present, the joules output takes on a linear scale as that's how techniques like the kaioken work. Some quick feats it follows:
 
@@ -93,10 +88,9 @@ Cell is stated to be a solar system buster, so his power level, while not stated
 
 **BMI Calculator:**
 
-
-Click below to watch!
-
-[![](bmi.png)](bmi.mp4)
+<video controls="controls" src="bmi.mp4">
+    Your browser does not support the HTML5 Video element.
+</video>
 
 
 I Developed an Android App through the use of Android Studio. It calculates the BMI and gives proper advice
@@ -110,9 +104,9 @@ wants advice from the app.
 **Cache Simulator:**
 
 Click below to watch!
-
-[![](cache.png)](cache.mp4)
-
+<video controls="controls" src="cache.mp4">
+    Your browser does not support the HTML5 Video element.
+</video>
 
 I created a Cache simulator using C, simulated an L1 cache using the Least Recently Used(LRU) replacement
 algorithm, and included an option to incorporate prefetching
