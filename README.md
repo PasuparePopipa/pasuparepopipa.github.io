@@ -9,7 +9,7 @@ Click [here!](resume.pdf) for my resume!
 ### Artificial Intelligence
 
 **MineSweeper!**
-In this project, I first created a game of Minesweeper in pygames. The game assets are thanks to GooseNinja from itch.io. Then I made a basic agent that plays the game of Minesweeper. Below is a video of it beating the game. The Improved agent is still under works and will take more advantage of it's knowledge base through different local algorithms.
+In this project, I first created a game of Minesweeper in pygames. The game assets are thanks to GooseNinja from itch.io. Then I made a basic agent that plays the game of Minesweeper. Below is a video of it beating the game. The Improved agent is still under works and will take more advantage of it's knowledge base. Currently working in the direction of a CSP.
 
 
 
