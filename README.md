@@ -9,16 +9,14 @@ Click [here!](resume.pdf) for my resume!
 ### Artificial Intelligence
 
 **MineSweeper!**
-In this project, I first created a game of Minesweeper in pygames. The game assets are thanks to GooseNinja from itch.io. Then I made a basic agent that plays the game of Minesweeper. Below is a video of it beating the game. The Improved agent is still under works and will take more advantage of it's knowledge base. Currently working in the direction of a CSP.
+In this project, I first created a game of Minesweeper in pygames. The game assets are thanks to GooseNinja from itch.io. I then made four different agents to play the game. The Basic Agent just plays with basic logic in a single case. The Improved Agent plays the game as a constraint satisfaction problem and projects it's own possible solutions. The Global Improved Agent gets additional information of the total number of cells in its knowledge base, and the second improved Agent takes a simulated annealing approach to cells it deems risky in its projected solutions.
 
-
-
-
-<video controls="controls" src="msbasic.mp4">
+<video controls="controls" src="mimp.mp4">
     Your browser does not support the HTML5 Video element
 </video>
 
-
+Below is a more detailed report on the project.
+[MineSweeper Report](minesweep.pdf)
 
 
 
