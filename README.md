@@ -8,6 +8,16 @@ Click [here!](resume.pdf) for my resume!
 
 ### Artificial Intelligence
 
+**Search and Destroy!**
+This project involves an agent searching for a target through flat areas, hills, forests, and caves. Each terrain introduces a different difficulty in terms of actually being able to find the target as the target is good at hiding! The objective is for the agent to find the target in as few searches as possible as well as minimize the distance travelled. The project was made in pygames and was done to help supplement understanding of modeling knowledge and beliefs and practice the use of bayesian theory.
+
+![](sedes.png)
+
+Below is a more detailed report on the project.
+[Search and Destroy Report](searchdestroy.pdf)
+
+
+
 **MineSweeper!**
 
 In this project, I first created a game of Minesweeper in pygames. The game assets are thanks to GooseNinja from itch.io. I then made four different agents to play the game. The Basic Agent just plays with basic logic in a single case. The Improved Agent plays the game as a constraint satisfaction problem and projects it's own possible solutions. The Global Improved Agent gets additional information of the total number of cells in its knowledge base, and the second improved Agent takes a simulated annealing approach to cells it deems risky in its projected solutions.
