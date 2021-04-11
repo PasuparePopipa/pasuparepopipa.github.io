@@ -9,6 +9,7 @@ Click [here!](resume.pdf) for my resume!
 ### Artificial Intelligence
 
 **Search and Destroy!**
+
 This project involves an agent searching for a target through flat areas, hills, forests, and caves. Each terrain introduces a different difficulty in terms of actually being able to find the target as the target is good at hiding! The objective is for the agent to find the target in as few searches as possible as well as minimize the distance travelled. The project was made in pygames and was done to help supplement understanding of modeling knowledge and beliefs and practice the use of bayesian theory.
 
 ![](sedes.PNG)
