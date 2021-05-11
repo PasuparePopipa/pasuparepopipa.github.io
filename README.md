@@ -100,7 +100,7 @@ This is a group project where we made a relational database system designed to s
 
 ### Mobile Development
 
-**Power Level to Joules Calculator:**
+**(ios)Power Level to Joules Calculator:**
 
 
 <video controls="controls" src="PowerLevelCalc.mp4">
@@ -118,7 +118,7 @@ Cell is stated to be a solar system buster, so his power level, while not stated
 
 
 
-**BMI Calculator:**
+**(Android)BMI Calculator:**
 
 <video controls="controls" src="bmi.mp4">
     Your browser does not support the HTML5 Video element.
