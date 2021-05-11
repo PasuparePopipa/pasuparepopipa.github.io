@@ -100,7 +100,7 @@ This is a group project where we made a relational database system designed to s
 
 ### Mobile Development
 
-**(ios)Power Level to Joules Calculator:**
+**(IOS)Power Level to Joules Calculator:**
 
 
 <video controls="controls" src="PowerLevelCalc.mp4">
