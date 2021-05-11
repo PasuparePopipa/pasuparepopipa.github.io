@@ -14,6 +14,9 @@ Click [here!](resume.pdf) for my resume!
 This project involves practicing computer vision along with supervised and unsupervised colors without any ML frameworks. The Agent takes in an image, greyscales it, and then divides it into two portions. It then uses the left half as training data in order to recolor the right half of the image. Here the Basic image uses K-means clustering as a way to simplify the process to recolor the image. The Improved Agent, is a mini neural network that uses gradient descent as its main means of minimizing the loss function.
 
 Below is the original image
+
+
+<p align="center">
 ![](tmp2.jpeg)
 
 
@@ -21,6 +24,7 @@ Below is the original image
 
 
 ![](improve.png)
+</p>
 
 
 
