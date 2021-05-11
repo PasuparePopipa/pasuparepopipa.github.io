@@ -16,7 +16,7 @@ This project involves practicing computer vision along with supervised and unsup
 Below is the original image
 
 
-<p align="center">
+<center>
     
 ![](tmp2.jpeg)
 
@@ -26,7 +26,7 @@ Below is the original image
 
 ![](improve.png)
 
-</p>
+</center>
 
 
 
