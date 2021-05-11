@@ -15,7 +15,11 @@ This project involves practicing computer vision along with supervised and unsup
 
 Below is the original image
 ![](tmp2.JPEG)
+
+
 ![](basic.png)
+
+
 ![](improve.PNG)
 
 
