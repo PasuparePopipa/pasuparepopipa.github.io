@@ -8,6 +8,21 @@ Click [here!](resume.pdf) for my resume!
 
 ### Artificial Intelligence
 
+
+**Colorization!**
+
+This project involves practicing computer vision along with supervised and unsupervised colors without any ML frameworks. The Agent takes in an image, greyscales it, and then divides it into two portions. It then uses the left half as training data in order to recolor the right half of the image. Here the Basic image uses K-means clustering as a way to simplify the process to recolor the image. The Improved Agent, is a mini neural network that uses gradient descent as its main means of minimizing the loss function.
+
+Below is the original image
+![](tmp2.JPEG)
+![](basic.png)
+![](improve.PNG)
+
+
+
+
+
+
 **Search and Destroy!**
 
 This project involves an agent searching for a target through flat areas, hills, forests, and caves. Each terrain introduces a different difficulty in terms of actually being able to find the target as the target is good at hiding! The objective is for the agent to find the target in as few searches as possible as well as minimize the distance travelled. The project was made in pygames and was done to help supplement understanding of modeling knowledge and beliefs and practice the use of bayesian theory.
