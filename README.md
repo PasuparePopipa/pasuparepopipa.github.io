@@ -12,7 +12,7 @@ Click [here!](resume.pdf) for my resume!
 
 
 This project involves using the coordinates of the hand and thumbs and building an HMM to analyze. Focuses 
-<img width="460" height="300" src="alligator-singlesign-00000015.gif"> <img width="460" height="300" src="nuts-singlesign-00000016.gif"><img width="460" height="300" src="sleep-singlesign-00000001.gif">
+<img width="460" height="300" alt="Alligator" src="alligator-singlesign-00000015.gif"> <img width="460" height="300" src="nuts-singlesign-00000016.gif"><img width="460" height="300" src="sleep-singlesign-00000001.gif">
 
 ![](alligator-singlesign-00000015.gif =50%x) ![](nuts-singlesign-00000016.gif =50%x) ![](sleep-singlesign-00000001.gif =50%x)
 
