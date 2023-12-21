@@ -25,7 +25,10 @@ Sleep
 
 <img width="460" height="300" src="sleep-singlesign-00000001.gif">
 
-![](alligator-singlesign-00000015.gif =50%x) ![](nuts-singlesign-00000016.gif =50%x) ![](sleep-singlesign-00000001.gif =50%x)
+Results 
+
+![](hmm.PNG)
+
 
 
 **Colorization!**
