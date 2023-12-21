@@ -11,13 +11,8 @@ Click [here!](resume.pdf) for my resume!
 **Hidden Markov Models! Sign Language**
 This project involves using the coordinates of the hand and thumbs and building an HMM to analyze. Focuses 
 
-![](alligator-singlesign-00000015.gif)
+![](alligator-singlesign-00000015.gif) ![](nuts-singlesign-00000016.gif) ![](sleep-singlesign-00000001.gif)
 
-
-![](nuts-singlesign-00000016.gif)
-
-
-![](sleep-singlesign-00000001.gif)
 
 **Colorization!**
 
