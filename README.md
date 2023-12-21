@@ -15,7 +15,7 @@ This project involves using the coordinates of the hand and thumbs and building 
 
 Alligator
 
-<img width="460" height="300" alt="Alligator" src="alligator-singlesign-00000015.gif"> 
+<img width="460" height="300" src="alligator-singlesign-00000015.gif"> 
 
 Nuts
 
