@@ -27,7 +27,7 @@ Sleep
 
 Results 
 
-![](hmm.PNG)
+![](hmm.png)
 
 
 
