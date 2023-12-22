@@ -20,9 +20,7 @@ Alligator, Nuts, and Sleep
 
 
 Results 
-<p align="center">
-  <img width="460" height="300" src="hmm.png">
-</p>
+<img width="500" height="330" src="hmm.png">
 
 
 
