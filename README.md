@@ -48,9 +48,7 @@ The rules for the rewards are as follows.
 
 After impleneting the Q-Learning algorithm, Dyna-Q was also implemented so that our AI agent could "hallucinate" extra experiences. Below is a sample run of a difficult course where we can see the dyna score helped improve the non-dyna score quite a bit.
 
-
-![](qlearning.png)
-
+<img width="500" height="330" src="qlearning.png">
 
 **Colorization!**
 
