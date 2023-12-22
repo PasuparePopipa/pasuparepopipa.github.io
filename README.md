@@ -11,7 +11,7 @@ Click [here!](resume.pdf) for my resume!
 **Hidden Markov Models! Sign Language**
 
 
-This project involves using the coordinates of the hand and thumbs to analyze sign language. After building an HMM, I built a Viterbi Trellis and return the sequence of states based on the evidence input. As of right now, the project involves deciphering only the following three words.
+This project involves using the coordinates of the hand and thumbs to analyze sign language. After building an HMM, I built a Viterbi Trellis and return the sequence of states along with the confidence probability based on the evidence input. As of right now, the project involves deciphering only the following three words.
 
 Alligator, Nuts, and Sleep
 
@@ -19,10 +19,37 @@ Alligator, Nuts, and Sleep
 <img width="230" height="150" src="alligator-singlesign-00000015.gif"> <img width="230" height="150" src="nuts-singlesign-00000016.gif"> <img width="230" height="150" src="sleep-singlesign-00000001.gif">
 
 
-Results 
+Below is some example test runs:
+
 <img width="500" height="330" src="hmm.png">
 
 
+**Machine Learning for Trading**
+
+This project involes using machine learning techiques to help trade stocks The entire paper on the project can be found here.
+
+As a brief overview, one of the techniques used was random forests and it was able to beat out our manual technique by quite a bit. The manual technique is a using basic logic of Bollinger Bands and SMA (and other financial techniques) to act upon the stocks. A snippet of the results can be seen below.
+
+<img width="500" height="330" src="ml4.png">
+
+
+**Q Learning Robot**
+
+This projects involves implementing Q-Learning and Dyna-Q algorithms in a game setting to practice reinforcement learning. The game world is a simple field with each field containing one of the following.
+0: blank space. 
+1: an obstacle. 
+2: the starting location for the robot. 
+3: the goal location. 
+5: quicksand. 
+The rules for the rewards are as follows.
+-1: if the robot moves to an empty or blank space, or attempts to move into a wall 
+-100: if the robot moves to a quicksand space 
+1: if the robot moves to the goal space 
+
+After impleneting the Q-Learning algorithm, Dyna-Q was also implemented so that our AI agent could "hallucinate" extra experiences. Below is a sample run of a difficult course where we can see the dyna score helped improve the non-dyna score quite a bit.
+
+
+![](qlearning.png)
 
 
 **Colorization!**
@@ -40,8 +67,6 @@ Below is the original image, followed by the results of the of the basic and imp
 
 
 ![](improve.png)
-
-
 
 
 
