@@ -13,18 +13,10 @@ Click [here!](resume.pdf) for my resume!
 
 This project involves using the coordinates of the hand and thumbs to analyze sign language. After building an HMM, I built a Viterbi Trellis and return the sequence of states based on the evidence input. As of right now, the project involves deciphering only the following three words.
 
-Alligator
+Alligator, Nuts, and Sleep
 
 
-<img width="230" height="150" src="alligator-singlesign-00000015.gif"> 
-
-Nuts
-
-<img width="230" height="150" src="nuts-singlesign-00000016.gif">
-
-Sleep
-
-<img width="230" height="150" src="sleep-singlesign-00000001.gif">
+<img width="230" height="150" src="alligator-singlesign-00000015.gif"> <img width="230" height="150" src="nuts-singlesign-00000016.gif"> <img width="230" height="150" src="sleep-singlesign-00000001.gif">
 
 
 Results 
