@@ -48,7 +48,7 @@ The second part involves using Finite State Machines to have AIs that can defeat
     Your browser does not support the HTML5 Video element.
 </video>
 
-**Race Track: Fuzzy Logic**
+## Race Track: Fuzzy Logic
 Using the FuzzyLogic library by t0chas, I created a fuzzy logic control for my vehicle to drive along the road and not fall off. It does its best not to lose any speed. Results can be seen below.
 <video controls="controls" src="vids/gameai7.mov" style="width: -webkit-fill-available">
     Your browser does not support the HTML5 Video element.
