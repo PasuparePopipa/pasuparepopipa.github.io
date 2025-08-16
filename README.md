@@ -1,7 +1,7 @@
 <nav>
   <a href="/" class="active">About</a>
   <a href="/ai">Artificial Intelligence</a>
-  <a href="/software">Softare Development</a>
+  <a href="/software">Software Development</a>
   <a href="/network">Networking and Architecture</a>
   <a href="/mobile">Mobile Programming</a>
   <a href="/game">Gaming and Game AI</a>
