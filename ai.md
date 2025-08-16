@@ -8,6 +8,7 @@ title: Artificial Intelligence
   <a href="/network">Networking and Architecture</a>
   <a href="/mobile">Mobile Programming</a>
   <a href="/game">Gaming and Game AI</a>
+  <a href="/other">Logical and Functional Programming</a>
 </nav>
 
 <style>
@@ -46,12 +47,12 @@ This project involves using the coordinates of the hand and thumbs to analyze si
 Alligator, Nuts, and Sleep
 
 
-<img width="230" height="150" src="alligator-singlesign-00000015.gif"> <img width="230" height="150" src="nuts-singlesign-00000016.gif"> <img width="230" height="150" src="sleep-singlesign-00000001.gif">
+<img width="230" height="150" src="images/alligator-singlesign-00000015.gif"> <img width="230" height="150" src="nuts-singlesign-00000016.gif"> <img width="230" height="150" src="sleep-singlesign-00000001.gif">
 
 
 Below is some example test runs:
 
-<img width="500" height="330" src="hmm.png">
+<img width="500" height="330" src="images/hmm.png">
 
 
 **Machine Learning for Trading**
@@ -60,7 +61,7 @@ This project involes using machine learning techiques to help trade stocks The e
 
 As a brief overview, one of the techniques used was random forests and it was able to beat out our manual technique by quite a bit. The manual technique is a using basic logic of Bollinger Bands and SMA (and other financial techniques) to act upon the stocks. A snippet of the results can be seen below.
 
-<img width="500" height="330" src="ml4.png">
+<img width="500" height="330" src="images/ml4.png">
 
 
 **Q Learning Robot**
@@ -78,7 +79,7 @@ The rules for the rewards are as follows.
 
 After impleneting the Q-Learning algorithm, Dyna-Q was also implemented so that our AI agent could "hallucinate" extra experiences. Below is a sample run of a difficult course where we can see the dyna score helped improve the non-dyna score quite a bit.
 
-<img width="500" height="330" src="qlearning.png">
+<img width="500" height="330" src="images/qlearning.png">
 
 **Colorization!**
 
@@ -88,13 +89,13 @@ Below is the original image, followed by the results of the of the basic and imp
 
 
     
-![](tmp2.jpeg)
+![](images/tmp2.jpeg)
 
 
-![](basic.png)
+![](images/basic.png)
 
 
-![](improve.png)
+![](images/improve.png)
 
 
 
@@ -104,10 +105,10 @@ Below is the original image, followed by the results of the of the basic and imp
 
 This project involves an agent searching for a target through flat areas, hills, forests, and caves. Each terrain introduces a different difficulty in terms of actually being able to find the target as the target is good at hiding! The objective is for the agent to find the target in as few searches as possible as well as minimize the distance travelled. The project was made in pygames and was done to help supplement understanding of modeling knowledge and beliefs and practice the use of bayesian theory.
 
-![](sedes.PNG)
+![](images/sedes.PNG)
 
 Below is a more detailed report on the project.
-[Search and Destroy Report](searchdestroy.pdf)
+[Search and Destroy Report](reports/searchdestroy.pdf)
 
 
 
@@ -115,12 +116,12 @@ Below is a more detailed report on the project.
 
 In this project, I first created a game of Minesweeper in pygames. The game assets are thanks to GooseNinja from itch.io. I then made four different agents to play the game. The Basic Agent just plays with basic logic in a single case. The Improved Agent plays the game as a constraint satisfaction problem and projects it's own possible solutions. The Global Improved Agent gets additional information of the total number of cells in its knowledge base, and the second improved Agent takes a simulated annealing approach to cells it deems risky in its projected solutions.
 <p align="center">
-<video controls="controls" src="mimp.mp4">
+<video controls="controls" src="vids/mimp.mp4">
     Your browser does not support the HTML5 Video element
 </video>
 </p>
 Below is a more detailed report on the project.
-[MineSweeper Report](minesweep.pdf)
+[MineSweeper Report](reports/minesweep.pdf)
 
 
 
@@ -129,13 +130,13 @@ Below is a more detailed report on the project.
 In this project, I worked with a partner and created an AI that attempts to reach the goal in a maze. The maze is a square and the AI will be unable to travel through walls or ”occupied cells”. In addition, the maze may be set on fire. In this case, the fire will spread with each move of the AI.This project is done in Python and Pygames is used for the GUI. Numpy and matplotlib were used for the graphs in the report. In the report below. Below are some sample images. In the first is an Agent performing DFS search in a 200x200 maze without any fire in it's way. The latter recomputes the shortest path using the A* algorithm, while exercising "caution" to account for future states.
 
 <p align="center">
-  <img src="200.PNG">
+  <img src="images/200.PNG">
 </p>
 <p align="center">
-  <img src="strat3.PNG">
+  <img src="images/strat3.PNG">
 </p>
 
 
 
 Below is a more detailed report on the project.
-[FireMaze Report](fmazereport.pdf)
+[FireMaze Report](reports/fmazereport.pdf)
