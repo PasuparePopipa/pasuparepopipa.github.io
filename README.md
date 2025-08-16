@@ -1,10 +1,10 @@
 <nav>
   <a href="/" class="active">About</a>
-  <a href="/about">Artificial Intelligence</a>
-  <a href="/projects">Softare Development</a>
-  <a href="/about">Networking and Architecture</a>
-  <a href="/projects">Mobile Programming</a>
-  <a href="/projects">Gaming and Game AI</a>
+  <a href="/ai">Artificial Intelligence</a>
+  <a href="/software">Softare Development</a>
+  <a href="/network">Networking and Architecture</a>
+  <a href="/mobile">Mobile Programming</a>
+  <a href="/game">Gaming and Game AI</a>
 </nav>
 
 <style>
