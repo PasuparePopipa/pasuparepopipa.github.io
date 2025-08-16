@@ -1,4 +1,4 @@
-[Home](index.md) | [About](about.md) | [Contact](contact.md)
+[Artificial Intelligence](index.md) | [Software Development](about.md) | [Networking and Architecture](contact.md) | [Mobile Programming](contact.md) | [Gaming and Game AI](contact.md)
 
 # Welcome!
 Hello! I am Jerry Yang, currently majoring in Computer Science and Finance, graduating May 2021!
