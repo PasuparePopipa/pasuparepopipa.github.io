@@ -1,3 +1,5 @@
+[Home](index.md) | [About](about.md) | [Contact](contact.md)
+
 # Welcome!
 Hello! I am Jerry Yang, currently majoring in Computer Science and Finance, graduating May 2021!
 See more information below!
