@@ -43,7 +43,7 @@ nav a.active {
 ## (IOS)Power Level to Joules Calculator:
 
 
-<video controls="controls" src="vids/PowerLevelCalc.mp4">
+<video controls="controls" src="vids/PowerLevelCalc.mp4" style="width: -webkit-fill-available">
     Your browser does not support the HTML5 Video element.
 </video>
 
@@ -60,7 +60,7 @@ Cell is stated to be a solar system buster, so his power level, while not stated
 
 ## (Android)BMI Calculator:
 
-<video controls="controls" src="vids/bmi.mp4">
+<video controls="controls" src="vids/bmi.mp4" style="width: -webkit-fill-available">
     Your browser does not support the HTML5 Video element.
 </video>
 

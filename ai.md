@@ -44,13 +44,13 @@ nav a.active {
 
 This project involves two parts. The first involves implrmenting the ballistic trajectory prediction for projectiles as well as shot selection logic (deciding when to throw dodgeballs). For implementation, I use Millington's static target method with iterative refinement.
 The second part involves using Finite State Machines to have AIs that can defeat the other AIs in a game of prison ball. Naturally, it uses the algorithms from part 1. The results are shown below. The numbers on the sides are the current number of games won.
-<video controls="controls" src="vids/gameai.mov">
+<video controls="controls" src="vids/gameai.mov" style="width: -webkit-fill-available">
     Your browser does not support the HTML5 Video element.
 </video>
 
 **Race Track: Fuzzy Logic**
 Using the FuzzyLogic library by t0chas, I created a fuzzy logic control for my vehicle to drive along the road and not fall off. It does its best not to lose any speed. Results can be seen below.
-<video controls="controls" src="vids/gameai7.mov">
+<video controls="controls" src="vids/gameai7.mov" style="width: -webkit-fill-available">
     Your browser does not support the HTML5 Video element.
 </video>
 
@@ -144,7 +144,7 @@ Below is a more detailed report on the project.
 
 In this project, I first created a game of Minesweeper in pygames. The game assets are thanks to GooseNinja from itch.io. I then made four different agents to play the game. The Basic Agent just plays with basic logic in a single case. The Improved Agent plays the game as a constraint satisfaction problem and projects it's own possible solutions. The Global Improved Agent gets additional information of the total number of cells in its knowledge base, and the second improved Agent takes a simulated annealing approach to cells it deems risky in its projected solutions.
 <p align="center">
-<video controls="controls" src="vids/mimp.mp4">
+<video controls="controls" src="vids/mimp.mp4" style="width: -webkit-fill-available">
     Your browser does not support the HTML5 Video element
 </video>
 </p>

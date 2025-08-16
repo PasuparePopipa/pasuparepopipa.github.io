@@ -41,7 +41,7 @@ nav a.active {
 ## Cache Simulator:
 
 Click below to watch!
-<video controls="controls" src="vids/cache.mp4">
+<video controls="controls" src="vids/cache.mp4" style="width: -webkit-fill-available">
     Your browser does not support the HTML5 Video element.
 </video>
 

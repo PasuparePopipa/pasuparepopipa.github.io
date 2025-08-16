@@ -43,7 +43,7 @@ nav a.active {
 
 # Pizza Ordering System:
 
-<video controls="controls" src="vids/pizza.mp4">
+<video controls="controls" src="vids/pizza.mp4" style="width: -webkit-fill-available">
     Your browser does not support the HTML5 Video element.
 </video>
  
