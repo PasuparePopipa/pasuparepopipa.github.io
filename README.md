@@ -215,6 +215,38 @@ Click below to watch!
 [![](bit.png)](bit.mp4)
 
 Using C and restricted to using only the 6 Bit Operators included with C, I created a series of Bit
+
+<nav>
+  <a href="/" class="active">Home</a>
+  <a href="/about">About</a>
+  <a href="/projects">Projects</a>
+</nav>
+
+<style>
+nav {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+nav a {
+  color: #00ffff;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 6px 12px;
+  border: 1px solid #00ffff;
+  border-radius: 4px;
+  transition: background 0.2s, color 0.2s;
+}
+nav a:hover {
+  background: #00ffff;
+  color: #000;
+}
+nav a.active {
+  background: #00ff00;
+  color: #000;
+  border-color: #00ff00;
+}
+</style>
 functions from guring out a bit's parity to palindrome checking.
 
 
