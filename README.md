@@ -1,6 +1,6 @@
 <nav>
   <a href="/" class="active">About</a>
-  <a href="/ai">Artificial Intelligence</a>
+  <a href="/pasuparepopipa.github.io/ai">Artificial Intelligence</a>
   <a href="/software">Softare Development</a>
   <a href="/network">Networking and Architecture</a>
   <a href="/mobile">Mobile Programming</a>
