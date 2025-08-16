@@ -42,5 +42,5 @@ See more information below!
 
 ## Resume
 Click [here!](reports/resume.pdf) for my resume!
-## Project Demos
+
 
