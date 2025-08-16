@@ -36,9 +36,9 @@ nav a.active {
   border-color: #00ff00;
 }
 </style>
-### Simulation
+# Simulation
 
-**Cache Simulator:**
+## Cache Simulator:
 
 Click below to watch!
 <video controls="controls" src="vids/cache.mp4">
@@ -48,7 +48,7 @@ Click below to watch!
 I created a Cache simulator using C, simulated an L1 cache using the Least Recently Used(LRU) replacement
 algorithm, and included an option to incorporate prefetching
 
-**Spanning Tree Protocol and Distance Vector Routing**
+## Spanning Tree Protocol and Distance Vector Routing
 
 Two networking programming assignments that focus on a topology of switches.
 The Spanning Tree Protocol solves the switching problem while the Distance Vector Routing project solves routing.
@@ -67,16 +67,16 @@ The output displays the node doing the logging followed by the neighbors along w
 
 
 
-**SDN Firewall and BGM Measurements**
+## SDN Firewall and BGM Measurements
 
 The following projects were done on a VM that I no longer have access to.
 The SDN Firewall project familarizes me with defining rules code, writing efficient firewall rules to describe what network is not allowed based on communication protocols and on parameters of the network topology.
 For BGP Measurements, I used the BGPStream tool to understand the BGP Protocol and interacted with BGP data. 
 
 
-### Other
+# Other
 
-**Bit Manipulation:**
+## Bit Manipulation:
 
 Click below to watch!
 

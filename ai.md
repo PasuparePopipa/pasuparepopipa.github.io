@@ -38,9 +38,9 @@ nav a.active {
 }
 </style>
 
-### Artificial Intelligence
+# Artificial Intelligence
 
-**Prison Dodgeball! Ballistic Trajectory Prediction and Finite State Machines**
+## Prison Dodgeball! Ballistic Trajectory Prediction and Finite State Machines
 
 This project involves two parts. The first involves implrmenting the ballistic trajectory prediction for projectiles as well as shot selection logic (deciding when to throw dodgeballs). For implementation, I use Millington's static target method with iterative refinement.
 The second part involves using Finite State Machines to have AIs that can defeat the other AIs in a game of prison ball. Naturally, it uses the algorithms from part 1. The results are shown below. The numbers on the sides are the current number of games won.
@@ -54,7 +54,7 @@ Using the FuzzyLogic library by t0chas, I created a fuzzy logic control for my v
     Your browser does not support the HTML5 Video element.
 </video>
 
-**Procedural Content Generation With Perlin Noice**
+## Procedural Content Generation With Perlin Noice
 
 Using Perlin Noice generation with a hierarchical set of generation rules, I made a complex heightmap terrain.
 
@@ -67,7 +67,7 @@ a child called river level (name)  to control the level of the river, as well on
 ![](images/pcgoverview.PNG)
 ![](images/pcgwavyriver.PNG)
 
-**Hidden Markov Models! Sign Language**
+## Hidden Markov Models! Sign Language
 
 
 This project involves using the coordinates of the hand and thumbs to analyze sign language. After building an HMM, I built a Viterbi Trellis and return the sequence of states along with the confidence probability based on the evidence input. As of right now, the project involves deciphering only the following three words.
@@ -83,7 +83,7 @@ Below is some example test runs:
 <img width="500" height="330" src="images/hmm.png">
 
 
-**Machine Learning for Trading**
+## Machine Learning for Trading
 
 This project involes using machine learning techiques to help trade stocks The entire paper on the project can be found here.
 
@@ -92,7 +92,7 @@ As a brief overview, one of the techniques used was random forests and it was ab
 <img width="500" height="330" src="images/ml4.png">
 
 
-**Q Learning Robot**
+## Q Learning Robot
 
 This projects involves implementing Q-Learning and Dyna-Q algorithms in a game setting to practice reinforcement learning. The game world is a simple field with each field containing one of the following.
 0: blank space. 
@@ -109,7 +109,7 @@ After impleneting the Q-Learning algorithm, Dyna-Q was also implemented so that 
 
 <img width="500" height="330" src="images/qlearning.png">
 
-**Colorization!**
+## Colorization!
 
 This project involves practicing computer vision along with supervised and unsupervised colors without any ML frameworks. The Agent takes in an image, greyscales it, and then divides it into two portions. It then uses the left half as training data in order to recolor the right half of the image. Here the Basic image uses K-means clustering as a way to simplify the process to recolor the image. The Improved Agent, is a mini neural network that uses gradient descent as its main means of minimizing the loss function.
 
@@ -129,7 +129,7 @@ Below is the original image, followed by the results of the of the basic and imp
 
 
 
-**Search and Destroy!**
+## Search and Destroy!
 
 This project involves an agent searching for a target through flat areas, hills, forests, and caves. Each terrain introduces a different difficulty in terms of actually being able to find the target as the target is good at hiding! The objective is for the agent to find the target in as few searches as possible as well as minimize the distance travelled. The project was made in pygames and was done to help supplement understanding of modeling knowledge and beliefs and practice the use of bayesian theory.
 
@@ -140,7 +140,7 @@ Below is a more detailed report on the project.
 
 
 
-**MineSweeper!**
+## MineSweeper!
 
 In this project, I first created a game of Minesweeper in pygames. The game assets are thanks to GooseNinja from itch.io. I then made four different agents to play the game. The Basic Agent just plays with basic logic in a single case. The Improved Agent plays the game as a constraint satisfaction problem and projects it's own possible solutions. The Global Improved Agent gets additional information of the total number of cells in its knowledge base, and the second improved Agent takes a simulated annealing approach to cells it deems risky in its projected solutions.
 <p align="center">
@@ -153,7 +153,7 @@ Below is a more detailed report on the project.
 
 
 
-**The Maze is On Fire!**
+## The Maze is On Fire!
 
 In this project, I worked with a partner and created an AI that attempts to reach the goal in a maze. The maze is a square and the AI will be unable to travel through walls or ”occupied cells”. In addition, the maze may be set on fire. In this case, the fire will spread with each move of the AI.This project is done in Python and Pygames is used for the GUI. Numpy and matplotlib were used for the graphs in the report. In the report below. Below are some sample images. In the first is an Agent performing DFS search in a 200x200 maze without any fire in it's way. The latter recomputes the shortest path using the A* algorithm, while exercising "caution" to account for future states.
 

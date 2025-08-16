@@ -38,13 +38,13 @@ nav a.active {
 }
 </style>
 
-### Programming Projects
+# Programming Projects
 
 I toyed around with various different programming languages in a series of programs in order to get a feel for the different kinds of programming including but not limited to functional, logical, and dynamic programming. I covered a large number of topics from BSTs and Huffman Trees to regex and automatas. 
 
 Here are just some of the samples!
 
-**Huffmantrees and DFAs:**
+## Huffmantrees and DFAs:
 
 ![](images/haskell1.png)
 
@@ -55,7 +55,7 @@ Using Haskell to work with functional programing, I worked with huffman trees. "
 Utilizing Haskell, I built a series of Deterministic finite automatons. As shown in the sample, the first DFA accepts any language over {A,B,C} where every non-final A is followed by a B, every non-final B is followed by a C, and so forth. The second accepts the string as long as it contains the sequence "AB" or "BA" somewhere in the string.
 
 
-**BSTs and Lists:**
+## BSTs and Lists:
 
 ![](images/prolog.png)
 

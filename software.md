@@ -38,10 +38,10 @@ nav a.active {
 }
 </style>
 
-### Software
+# Software
 
 
-**Pizza Ordering System:**
+# Pizza Ordering System:
 
 <video controls="controls" src="vids/pizza.mp4">
     Your browser does not support the HTML5 Video element.
@@ -54,7 +54,7 @@ from the various topping choices given to the user. When finished, the user is a
 separate window and proceed to conrm their order, go back to the menu, or clear the order entirely.
 
 
-**Online Railway Booking System:**
+## Online Railway Booking System:
 
 Click below to watch!
 
