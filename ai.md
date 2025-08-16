@@ -1,3 +1,6 @@
+---
+title: Artificial Intelligence
+---
 <nav>
   <a href="/" class="active">About</a>
   <a href="/ai">Artificial Intelligence</a>
