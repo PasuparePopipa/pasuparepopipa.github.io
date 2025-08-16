@@ -49,19 +49,26 @@ I created a Cache simulator using C, simulated an L1 cache using the Least Recen
 algorithm, and included an option to incorporate prefetching
 
 **Spanning Tree Protocol and Distance Vector Routing**
+
 Two networking programming assignments that focus on a topology of switches.
 The Spanning Tree Protocol solves the switching problem while the Distance Vector Routing project solves routing.
 For the Spanning tree, I coded up a distributed algorithm and simulated communication between switches using messages. The end result returns the active links.
 The output is displayed as the {sourceSwitchID} - {DestinationSwitchID}, seperating links with a comma. Pictures below are a sample topology input along with the output.
+<br>
 <img width="230" height="150" src="images/spanning1.png"> <img width="230" height="150" src="images/spanning2.png"> 
+<br>
 
 The Distance Vector focuses on using the Bellman-Ford algorithm and use it to calculate routing paths in a network. 
 The output displays the node doing the logging followed by the neighbors along with the vector weights. Below is an example input and the final cycle of an output.
+<br>
+
 <img width="230" height="150" src="images/sdvector1.png"> <img width="230" height="150" src="images/sdvector2.png"> 
+<br>
 
 
 
 **SDN Firewall and BGM Measurements**
+
 The following projects were done on a VM that I no longer have access to.
 The SDN Firewall project familarizes me with defining rules code, writing efficient firewall rules to describe what network is not allowed based on communication protocols and on parameters of the network topology.
 For BGP Measurements, I used the BGPStream tool to understand the BGP Protocol and interacted with BGP data. 

@@ -41,6 +41,7 @@ nav a.active {
 ### Artificial Intelligence
 
 **Prison Dodgeball! Ballistic Trajectory Prediction and Finite State Machines**
+
 This project involves two parts. The first involves implrmenting the ballistic trajectory prediction for projectiles as well as shot selection logic (deciding when to throw dodgeballs). For implementation, I use Millington's static target method with iterative refinement.
 The second part involves using Finite State Machines to have AIs that can defeat the other AIs in a game of prison ball. Naturally, it uses the algorithms from part 1. The results are shown below. The numbers on the sides are the current number of games won.
 <video controls="controls" src="vids/gameai.mov">
@@ -54,6 +55,7 @@ Using the FuzzyLogic library by t0chas, I created a fuzzy logic control for my v
 </video>
 
 **Procedural Content Generation With Perlin Noice**
+
 Using Perlin Noice generation with a hierarchical set of generation rules, I made a complex heightmap terrain.
 
 My pcg terrain consists of three biomes. I named them mountains, foresty plains, and wavy river. Each of these terrains use the trapezoid function to transition
