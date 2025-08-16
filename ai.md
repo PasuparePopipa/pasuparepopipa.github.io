@@ -14,7 +14,7 @@ title: Artificial Intelligence
 nav {
   display: flex;
   gap: 20px;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
 }
 nav a {
   color: #00ffff;
