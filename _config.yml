@@ -3,10 +3,3 @@ title: Jerry Yang
 description: jerry.yang138@gmail.com
 github:
   is_project_page: false
-nav:
-  - title: Home
-    url: /
-  - title: About
-    url: /about
-  - title: Projects
-    url: /projects
