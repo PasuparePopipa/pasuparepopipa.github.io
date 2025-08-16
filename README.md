@@ -39,7 +39,7 @@ Hello! I am Jerry Yang, currently majoring in Computer Science and Finance, grad
 See more information below!
 
 ## Resume
-Click [here!](resume.pdf) for my resume!
+Click [here!](reports/resume.pdf) for my resume!
 ## Project Demos
 
 ### Artificial Intelligence
@@ -52,12 +52,12 @@ This project involves using the coordinates of the hand and thumbs to analyze si
 Alligator, Nuts, and Sleep
 
 
-<img width="230" height="150" src="alligator-singlesign-00000015.gif"> <img width="230" height="150" src="nuts-singlesign-00000016.gif"> <img width="230" height="150" src="sleep-singlesign-00000001.gif">
+<img width="230" height="150" src="images/alligator-singlesign-00000015.gif"> <img width="230" height="150" src="images/nuts-singlesign-00000016.gif"> <img width="230" height="150" src="images/sleep-singlesign-00000001.gif">
 
 
 Below is some example test runs:
 
-<img width="500" height="330" src="hmm.png">
+<img width="500" height="330" src="images/hmm.png">
 
 
 **Machine Learning for Trading**
@@ -66,7 +66,7 @@ This project involes using machine learning techiques to help trade stocks The e
 
 As a brief overview, one of the techniques used was random forests and it was able to beat out our manual technique by quite a bit. The manual technique is a using basic logic of Bollinger Bands and SMA (and other financial techniques) to act upon the stocks. A snippet of the results can be seen below.
 
-<img width="500" height="330" src="ml4.png">
+<img width="500" height="330" src="images/ml4.png">
 
 
 **Q Learning Robot**
@@ -84,7 +84,7 @@ The rules for the rewards are as follows.
 
 After impleneting the Q-Learning algorithm, Dyna-Q was also implemented so that our AI agent could "hallucinate" extra experiences. Below is a sample run of a difficult course where we can see the dyna score helped improve the non-dyna score quite a bit.
 
-<img width="500" height="330" src="qlearning.png">
+<img width="500" height="330" src="images/qlearning.png">
 
 **Colorization!**
 
@@ -94,13 +94,13 @@ Below is the original image, followed by the results of the of the basic and imp
 
 
     
-![](tmp2.jpeg)
+![](images/tmp2.jpeg)
 
 
-![](basic.png)
+![](images/basic.png)
 
 
-![](improve.png)
+![](images/improve.png)
 
 
 
@@ -110,10 +110,10 @@ Below is the original image, followed by the results of the of the basic and imp
 
 This project involves an agent searching for a target through flat areas, hills, forests, and caves. Each terrain introduces a different difficulty in terms of actually being able to find the target as the target is good at hiding! The objective is for the agent to find the target in as few searches as possible as well as minimize the distance travelled. The project was made in pygames and was done to help supplement understanding of modeling knowledge and beliefs and practice the use of bayesian theory.
 
-![](sedes.PNG)
+![](images/sedes.PNG)
 
 Below is a more detailed report on the project.
-[Search and Destroy Report](searchdestroy.pdf)
+[Search and Destroy Report](reports/searchdestroy.pdf)
 
 
 
@@ -121,12 +121,12 @@ Below is a more detailed report on the project.
 
 In this project, I first created a game of Minesweeper in pygames. The game assets are thanks to GooseNinja from itch.io. I then made four different agents to play the game. The Basic Agent just plays with basic logic in a single case. The Improved Agent plays the game as a constraint satisfaction problem and projects it's own possible solutions. The Global Improved Agent gets additional information of the total number of cells in its knowledge base, and the second improved Agent takes a simulated annealing approach to cells it deems risky in its projected solutions.
 <p align="center">
-<video controls="controls" src="mimp.mp4">
+<video controls="controls" src="vids/mimp.mp4">
     Your browser does not support the HTML5 Video element
 </video>
 </p>
 Below is a more detailed report on the project.
-[MineSweeper Report](minesweep.pdf)
+[MineSweeper Report](reports/minesweep.pdf)
 
 
 
@@ -135,23 +135,23 @@ Below is a more detailed report on the project.
 In this project, I worked with a partner and created an AI that attempts to reach the goal in a maze. The maze is a square and the AI will be unable to travel through walls or ”occupied cells”. In addition, the maze may be set on fire. In this case, the fire will spread with each move of the AI.This project is done in Python and Pygames is used for the GUI. Numpy and matplotlib were used for the graphs in the report. In the report below. Below are some sample images. In the first is an Agent performing DFS search in a 200x200 maze without any fire in it's way. The latter recomputes the shortest path using the A* algorithm, while exercising "caution" to account for future states.
 
 <p align="center">
-  <img src="200.PNG">
+  <img src="images/200.PNG">
 </p>
 <p align="center">
-  <img src="strat3.PNG">
+  <img src="images/strat3.PNG">
 </p>
 
 
 
 Below is a more detailed report on the project.
-[FireMaze Report](fmazereport.pdf)
+[FireMaze Report](reports/fmazereport.pdf)
 
 ### Software
 
 
 **Pizza Ordering System:**
 
-<video controls="controls" src="pizza.mp4">
+<video controls="controls" src="vids/pizza.mp4">
     Your browser does not support the HTML5 Video element.
 </video>
  
@@ -168,7 +168,7 @@ Click below to watch!
 
 
 
-[![](trainRes.PNG)](https://drive.google.com/file/d/1SY3i_AaE3vtkf3Sdvkz9j_A1vZGBTLGQ/view?usp=sharing)
+[![](images/trainRes.PNG)](https://drive.google.com/file/d/1SY3i_AaE3vtkf3Sdvkz9j_A1vZGBTLGQ/view?usp=sharing)
 
 
 This is a group project where we made a relational database system designed to support the operations of an online railway booking system. HTML was used for the user interface, MYSQL for the database server, and Java, Javascript, and JDBC was used for the connectivity between the user interface and database server. It was hosted under AWS for a period of time but the instance has been taken down as the free tier is no longer available. The video is a demo of the functions including reservations, questions and answers between customer reps and customers, and other admin functions.
@@ -178,7 +178,7 @@ This is a group project where we made a relational database system designed to s
 **(IOS)Power Level to Joules Calculator:**
 
 
-<video controls="controls" src="PowerLevelCalc.mp4">
+<video controls="controls" src="vids/PowerLevelCalc.mp4">
     Your browser does not support the HTML5 Video element.
 </video>
 
@@ -195,7 +195,7 @@ Cell is stated to be a solar system buster, so his power level, while not stated
 
 **(Android)BMI Calculator:**
 
-<video controls="controls" src="bmi.mp4">
+<video controls="controls" src="vids/bmi.mp4">
     Your browser does not support the HTML5 Video element.
 </video>
 
@@ -211,7 +211,7 @@ wants advice from the app.
 **Cache Simulator:**
 
 Click below to watch!
-<video controls="controls" src="cache.mp4">
+<video controls="controls" src="vids/cache.mp4">
     Your browser does not support the HTML5 Video element.
 </video>
 
@@ -227,18 +227,18 @@ Here are just some of the samples!
 
 **Huffmantrees and DFAs:**
 
-![](haskell1.png)
+![](images/haskell1.png)
 
 Using Haskell to work with functional programing, I worked with huffman trees. "codes" returns a list of every element in the tree along with its encoding as a sequence of bits, while decode takes in a huffman tree and a stream of bits and "decodes" it, giving the string of symbols encoded, as well as a boolean indicating whether or not any bits were left over.
 
-![](haskell2.png)
+![](images/haskell2.png)
 
 Utilizing Haskell, I built a series of Deterministic finite automatons. As shown in the sample, the first DFA accepts any language over {A,B,C} where every non-final A is followed by a B, every non-final B is followed by a C, and so forth. The second accepts the string as long as it contains the sequence "AB" or "BA" somewhere in the string.
 
 
 **BSTs and Lists:**
 
-![](prolog.png)
+![](images/prolog.png)
 
 Using Prolog to work with logical programing, I worked with BSTs and lists. "bst" checks whether or not the input binary search tree is semi-deterministic. "zip" zips the elements of the first input with the second input and places it in the third as a list. The third list is always shorter or as long as the first two lists as extra elements are discarded. "insert" inserts an element into a list and stores it in the third list. 
 
@@ -246,7 +246,7 @@ Using Prolog to work with logical programing, I worked with BSTs and lists. "bst
 
 Click below to watch!
 
-[![](bit.png)](bit.mp4)
+[![](images/bit.png)](vids/bit.mp4)
 
 Using C and restricted to using only the 6 Bit Operators included with C, I created a series of Bit
 functions from guring out a bit's parity to palindrome checking.
