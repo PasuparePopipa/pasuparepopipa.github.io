@@ -7,7 +7,6 @@ title: Software Development
   <a href="/software"  class="active">Software Development</a>
   <a href="/network">Networking and Architecture</a>
   <a href="/mobile">Mobile Programming</a>
-  <a href="/game">Gaming and Game AI</a>
   <a href="/other">Logical and Functional Programming</a>
 </nav>
 

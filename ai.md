@@ -7,7 +7,6 @@ title: Artificial Intelligence
   <a href="/software">Software Development</a>
   <a href="/network">Networking and Architecture</a>
   <a href="/mobile">Mobile Programming</a>
-  <a href="/game">Gaming and Game AI</a>
   <a href="/other">Logical and Functional Programming</a>
 </nav>
 
@@ -40,6 +39,31 @@ nav a.active {
 </style>
 
 ### Artificial Intelligence
+
+**Prison Dodgeball! Ballistic Trajectory Prediction and Finite State Machines**
+This project involves two parts. The first involves implrmenting the ballistic trajectory prediction for projectiles as well as shot selection logic (deciding when to throw dodgeballs). For implementation, I use Millington's static target method with iterative refinement.
+The second part involves using Finite State Machines to have AIs that can defeat the other AIs in a game of prison ball. Naturally, it uses the algorithms from part 1. The results are shown below. The numbers on the sides are the current number of games won.
+<video controls="controls" src="vids/gameai.mov">
+    Your browser does not support the HTML5 Video element.
+</video>
+
+**Race Track: Fuzzy Logic**
+Using the FuzzyLogic library by t0chas, I created a fuzzy logic control for my vehicle to drive along the road and not fall off. It does its best not to lose any speed. Results can be seen below.
+<video controls="controls" src="vids/gameai7.mov">
+    Your browser does not support the HTML5 Video element.
+</video>
+
+**Procedural Content Generation With Perlin Noice**
+Using Perlin Noice generation with a hierarchical set of generation rules, I made a complex heightmap terrain.
+
+My pcg terrain consists of three biomes. I named them mountains, foresty plains, and wavy river. Each of these terrains use the trapezoid function to transition
+from one to the other. The mountain has a mountain base(name) which is responsible for making the mountain base, along with detail(name) , which is used to create details, 
+just like in the demo video. The foresty plain is similar in that it uses a plain base, and then adds details using the plain detail(name) . Trees were also
+added by zeroing out of the parrent and using a customized mapping curve with perlin noise. In the wavy river biome, we can see that the waves are quite big. I have 
+a child called river level (name)  to control the level of the river, as well once again a child called river detail to alter the waves of the river.
+![](images/pcgforestyplain.PNG)
+![](images/pcgoverview.PNG)
+![](images/pcgwavyriver.PNG)
 
 **Hidden Markov Models! Sign Language**
 

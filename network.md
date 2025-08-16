@@ -7,7 +7,6 @@ title: Networking and Architecture
   <a href="/software">Software Development</a>
   <a href="/network"  class="active">Networking and Architecture</a>
   <a href="/mobile">Mobile Development</a>
-  <a href="/game">Gaming and Game AI</a>
   <a href="/other">Logical and Functional Programming</a>
 </nav>
 
@@ -54,13 +53,13 @@ Two networking programming assignments that focus on a topology of switches.
 The Spanning Tree Protocol solves the switching problem while the Distance Vector Routing project solves routing.
 For the Spanning tree, I coded up a distributed algorithm and simulated communication between switches using messages. The end result returns the active links.
 The output is displayed as the {sourceSwitchID} - {DestinationSwitchID}, seperating links with a comma. Pictures below are a sample topology input along with the output.
-![](images/spanning1.PNG)
-![](images/spanning2.PNG)
+![](images/spanning1.png)
+![](images/spanning2.png)
 
 The Distance Vector focuses on using the Bellman-Ford algorithm and use it to calculate routing paths in a network. 
 The output displays the node doing the logging followed by the neighbors along with the vector weights. Below is an example input and the final cycle of an output.
-![](images/sdvector1.PNG)
-![](images/sdvector2.PNG)
+![](images/sdvector1.png)
+![](images/sdvector2.png)
 
 
 **SDN Firewall and BGM Measurements**

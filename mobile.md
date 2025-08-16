@@ -7,7 +7,6 @@ title: Mobile Development
   <a href="/software">Software Development</a>
   <a href="/network">Networking and Architecture</a>
   <a href="/mobile" class="active">Mobile Development</a>
-  <a href="/game">Gaming and Game AI</a>
   <a href="/other">Logical and Functional Programming</a>
 </nav>
 
