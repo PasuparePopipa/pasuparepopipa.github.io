@@ -49,7 +49,7 @@ This project involves using the coordinates of the hand and thumbs to analyze si
 Alligator, Nuts, and Sleep
 
 
-<img width="230" height="150" src="images/alligator-singlesign-00000015.gif"> <img width="230" height="150" src="nuts-singlesign-00000016.gif"> <img width="230" height="150" src="sleep-singlesign-00000001.gif">
+<img width="230" height="150" src="images/alligator-singlesign-00000015.gif"> <img width="230" height="150" src="images/nuts-singlesign-00000016.gif"> <img width="230" height="150" src="images/sleep-singlesign-00000001.gif">
 
 
 Below is some example test runs:
