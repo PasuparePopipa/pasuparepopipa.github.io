@@ -37,7 +37,7 @@ nav a.active {
 
 
 # Welcome!
-Software Engineer · 5+ years building production systems · M.S. Computer Science (Artificial Intelligence)
+My name is Jerry Yang, Software Engineer with 5+ years of experience building production systems! Welcome to my project portfolio!
 See more information below!
 
 ## Resume
