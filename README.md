@@ -37,7 +37,7 @@ nav a.active {
 
 
 # Welcome!
-Hello! I am Jerry Yang, currently majoring in Computer Science and Finance, graduating May 2021!
+Software Engineer · 5+ years building production systems · M.S. Computer Science (Artificial Intelligence)
 See more information below!
 
 ## Resume
